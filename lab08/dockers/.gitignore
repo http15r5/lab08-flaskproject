@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite DB
+db.sqlite
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+lab04_sqlite_data/
